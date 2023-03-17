@@ -19,7 +19,7 @@
     margin-bottom: 5px;
 }
 
-.centercontent{
+.centertext{
     text-align: center;
 }
 
@@ -29,4 +29,8 @@
 
 th {
     text-align: center;
+}
+
+.centercontent {
+    align-content: center;
 }
