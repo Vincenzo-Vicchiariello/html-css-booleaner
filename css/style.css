@@ -1,0 +1,20 @@
+.pattern{
+    background-color: #9CD6F4;
+    max-height: 128;
+  
+}
+
+#data {
+    font-size: 10px;
+    margin-top: 5px; 
+}
+
+#autore {
+    margin-bottom: 5px;
+}
+
+#img-credits {
+    font-size: 12px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
